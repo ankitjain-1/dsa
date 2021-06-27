@@ -2,3 +2,12 @@
 *
 !*.*
 !*/
+
+# C++ executable
+*.out
+
+# .vscode folder
+/.vscode
+
+# temp code runner file
+tempCodeRunnerFile.cpp
