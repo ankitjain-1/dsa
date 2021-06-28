@@ -1,0 +1,2 @@
+GeeksForGeeks Editorial [Link](https://www.geeksforgeeks.org/k-largestor-smallest-elements-in-an-array/)
+GeeksForGeeks Practice [Link](https://practice.geeksforgeeks.org/problems/k-largest-elements3736/1/)
