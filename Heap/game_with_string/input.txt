@@ -1,0 +1,3 @@
+2
+abccc 1
+aabcbcbcabcc 3
