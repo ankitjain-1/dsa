@@ -1,0 +1,8 @@
+lmax 9
+lmax 5
+lmax 4
+18
+lmax 3
+0
+lmax 1
+0
