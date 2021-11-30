@@ -1,0 +1,12 @@
+A
+
+AB
+BA
+
+ABC
+ACB
+BAC
+BCA
+CBA
+CAB
+
